@@ -10,6 +10,11 @@ a simple, lightweight tool designed to help you switch between versions and keep
 
 ---
 
+### **how to install it**
+1. **go [here.](https://github.com/fastmaxcode/nexus-launcher/releases/download/VersionSwitcher/Nexus.1.0.Beta.py)**
+
+---
+
 ### **how to use it**
 
 1.  **install python** make sure you have python 3.x installed on your system. you can download it from [python.org](https://www.python.org/).
