@@ -1,4 +1,4 @@
-## # **N E X U S** | minecraft launcher
+# **Nexus** | minecraft launcher
 
 a simple, lightweight tool designed to help you switch between versions and keep your worlds safe.
 
